@@ -14,3 +14,5 @@ If more languages are added to Polly, updating the csv with the relevant fields 
 
 This hasn't been tested with non-English languages. Let me know if you try it for that.
 
+A more detailed explanation of this script can be found here:
+https://medium.com/@edkohler/creating-amazon-polly-voice-samples-with-moviepy-8df140f96670
